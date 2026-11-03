@@ -26,5 +26,8 @@ else //pode estar inclinado pra esquerda
 
 
 //reiniciando o alarme
-alarm[0] = timer;
+alarm[0] = tempo;
+
+
+
 

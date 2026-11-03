@@ -39,9 +39,10 @@
   "name":"CLT Runner",
   "resources":[
     {"id":{"name":"obj_avancar_historia","path":"objects/obj_avancar_historia/obj_avancar_historia.yy",},},
+    {"id":{"name":"obj_clt_spawner","path":"objects/obj_clt_spawner/obj_clt_spawner.yy",},},
+    {"id":{"name":"obj_clt","path":"objects/obj_clt/obj_clt.yy",},},
     {"id":{"name":"obj_comida_spawner","path":"objects/obj_comida_spawner/obj_comida_spawner.yy",},},
     {"id":{"name":"obj_historia","path":"objects/obj_historia/obj_historia.yy",},},
-    {"id":{"name":"obj_inimigo_spawner","path":"objects/obj_inimigo_spawner/obj_inimigo_spawner.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_cutscene1","path":"rooms/rm_cutscene1/rm_cutscene1.yy",},},
     {"id":{"name":"rm_cutscene2","path":"rooms/rm_cutscene2/rm_cutscene2.yy",},},

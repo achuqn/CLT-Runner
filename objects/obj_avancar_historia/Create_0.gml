@@ -4,10 +4,10 @@ image_angle = 359;
 
 
 //tempo inicial do timer
-timer = 30;
+tempo = 30;
 
-//inicia a contagem do relógio
-alarm[0] = timer;
+//inicia a contagem do alarme
+alarm[0] = tempo;
 
 
 
