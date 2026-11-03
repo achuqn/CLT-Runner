@@ -15,12 +15,18 @@ else //que nesse caso é room_width - 16
 	//salva a instância criada do objeto CLT
 	var _inst = instance_create_layer(x, y, "CLT", obj_clt);
 	
-	//diz pra instância que foi criada que ela deve virar sua imagem
+	//diz pra instância que foi criada que ela deve virar sua image_xscale
 	_inst.image_xscale = -1; //assim ela não fica virada pro lado errado
+	
+	//diz pra instância que foi criada que ela deve virar sua image_yscale
+	_inst.image_yscale = -1; //assim o texto volta a ser legível
 }
 
 
 //reseta o alarme entre os valores de tempo e tempo_max
 alarm[0] = random_range(tempo, tempo_max);
+
+
+
 
 
